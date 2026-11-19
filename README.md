@@ -500,10 +500,6 @@ Thapar CSE – 2029 Batch
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Built with Python, Machine Learning, Statistical Analysis and Streamlit.\</strong>
-\</p>
+\<p align="center">   \<strong>Built with Python, Machine Learning, Statistical Analysis and Streamlit.\</strong> \</p>
 
-\<p align="center">
-&#x20; ⭐ If you find this project interesting, consider giving the repository a star!
-\</p>
+\<p align="center">   ⭐ If you find this project interesting, consider giving the repository a star! \</p>
